@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to the TMP repositories
 
-<!--
+## Welcome
+Welcome to TMP - a group of 3 developers with some time on their hands! Here you can find a lot of useless but fun stuff, as well as a few serious projects if you go looking deep enough.
 
-**Here are some ideas to get you started:**
+If you want to know more about us, check out tmpdev.tk or write us an email <developer name>@tmpdev.tk
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Hope you will find some use out of this mess :).
+
+## Contact
+Website - tmpdev.tk
+Email - <tomas/martin/petr>@tmpdev.tk
+
+## Notes
+empty, for now....
