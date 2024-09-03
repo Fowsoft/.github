@@ -6,6 +6,6 @@ Welcome to Fowsoft - a group of 4 developers with some time on their hands! Here
 Hope you will find some use out of this mess :).
 
 ## Contact
-Discord: discord.gg/EHvppwAW4N
+If you need to contact any Fowsoft member, contact them individually using information on their Github profile or webpage.
 
 ## Notes
